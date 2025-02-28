@@ -5,8 +5,8 @@ A Passionate Data Science And Machine Learning Enthusiast
 ---------------------------------------------------------
 
 * ✉️  You can contact me at [anjaliyadav40821@gmail.com](mailto:anjaliyadav40821@gmail.com)
-* 🚀  I'm currently working on Object Detection
-* 🧠  I'm learning RASA
+* 🚀  I'm currently working on Object Detection and Agentic AI
+* 🧠  I'm learning langchain for making chatbot
 * 🤝  I'm open to collaborating on Data Science And ML Project
 
 ### Skills

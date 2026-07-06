@@ -1,12 +1,14 @@
 Hello 👋 My name is Anjali Yadav
 =============================
 
-A Passionate Data Science And Machine Learning Enthusiast
+**AI/ML Engineer with 2+ years of industry experience building intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), NLP, Computer Vision, and Agentic AI.**
+
+Currently interested in Applied AI, Data Science, and production-ready AI systems.
 ---------------------------------------------------------
 
 * ✉️  You can contact me at [anjaliyadav40821@gmail.com](mailto:anjaliyadav40821@gmail.com)
-* 🚀  I'm currently working on Object Detection and Agentic AI
-* 🧠  I'm learning langchain for making chatbot
+* 🚀  Currently building AI agents, Retrieval-Augmented Generation (RAG) systems, and LLM-powered applications.
+* 🧠  Interested in Agentic AI, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and Large Language Models.
 * 🤝  I'm open to collaborating on Data Science And ML Project
 
 ### Skills

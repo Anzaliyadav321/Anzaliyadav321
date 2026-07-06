@@ -13,6 +13,9 @@ Currently interested in Applied AI, Data Science, and production-ready AI system
 
 
 
+### Skills
+
+
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,git,tensorflow,pytorch,fastapi,docker,postgres,mysql,aws)](https://skillicons.dev)
 
 ### AI & Data Science

@@ -12,6 +12,22 @@ Currently interested in Applied AI, Data Science, and production-ready AI system
 * 🤝  I'm open to collaborating on Data Science And ML Project
 
 ### Skills
+## 🛠 Tech Stack
+
+### Languages
+Python • SQL • C++
+
+### AI & Data Science
+Machine Learning • Deep Learning • LLMs • RAG • NLP • Computer Vision • Agentic AI
+
+### Frameworks
+TensorFlow • PyTorch • Hugging Face • LangChain • LangGraph • FastAPI
+
+### Data & Vector Databases
+NumPy • Pandas • Scikit-learn • FAISS • ChromaDB
+
+### Deployment
+Docker • AWS • Render • Vercel
 
 
 <p align="left">
